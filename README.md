@@ -6,7 +6,6 @@ This project implements an authentication system using Next.js and NextAuth.js, 
 - Email verification to confirm user identity
 - Integration with NextAuth.js for easy authentication management
 - Nodemailer for sending verification emails
-- Responsive UI with React and Next.js
 
 ## Features
 - **User Registration**: Users can sign up with their email address and receive a verification email.
