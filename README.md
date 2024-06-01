@@ -15,11 +15,17 @@ This project implements an authentication system using Next.js and NextAuth.js, 
 - **Secure Authentication**: Uses NextAuth.js to handle authentication securely and efficiently.
 
 ## Getting Started
-1. Clone the repository:
+Create a .env file in the root of your project and add the necessary environment variables as described in the README.
+
+Clone the repository:
    ```sh
    git clone https://github.com/yourusername/my-nextjs-auth-project.git
    cd my-nextjs-auth-project
    npm install
    npm run dev
+   ```
+Now your project will start on localhost 3000 
+[http://localhost:3000](http://localhost:3000)
+
 
 
